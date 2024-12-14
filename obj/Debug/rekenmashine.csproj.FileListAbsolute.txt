@@ -1,0 +1,7 @@
+C:\Users\school\Documents\jaar 1\projecten\rekenmashine\obj\Debug\rekenmashine.csproj.AssemblyReference.cache
+C:\Users\school\Documents\jaar 1\projecten\rekenmashine\obj\Debug\rekenmashine.csproj.CoreCompileInputs.cache
+C:\Users\school\Documents\jaar 1\projecten\rekenmashine\bin\Debug\rekenmashine.exe.config
+C:\Users\school\Documents\jaar 1\projecten\rekenmashine\bin\Debug\rekenmashine.exe
+C:\Users\school\Documents\jaar 1\projecten\rekenmashine\bin\Debug\rekenmashine.pdb
+C:\Users\school\Documents\jaar 1\projecten\rekenmashine\obj\Debug\rekenmashine.exe
+C:\Users\school\Documents\jaar 1\projecten\rekenmashine\obj\Debug\rekenmashine.pdb
